@@ -7,9 +7,9 @@
 
 * **支持版本**：1.19x 至 21.11
 
-* **服务器地址**：[tcraft.wdsjfwq.com:2556](https://tcraft.wdsjfwq.com:25565)[5](https://tcraft.wdsjfwq.com:25565)（IP：[tcraft.wdsjfwq.com](https://tcraft.wdsjfwq.com)）
+* **服务器地址**：tcraft.wdsjfwq.com:25565
 
-!\[T Craft]\([https://www.wdsjfwq.com/votebanner-2269-evevev.png](https://www.wdsjfwq.com/votebanner-2269-evevev.png) =600x)
+![实时服务器人数](https://www.wdsjfwq.com/votebanner-2269-evevev.png "tcraft")
 
 ### 🎯 服务器核心理念
 
